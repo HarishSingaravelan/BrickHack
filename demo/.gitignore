@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#demo 
+/demo/src/resources/application.properties
